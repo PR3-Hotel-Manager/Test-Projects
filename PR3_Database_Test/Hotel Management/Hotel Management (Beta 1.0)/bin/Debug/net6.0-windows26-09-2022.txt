@@ -1,0 +1,4 @@
+16:51:21|Chk-in|  mike            g                    18  #1  - C/D
+16:51:42|Chk-in|  gdfgh           dghdgh               18  #10 - C/D
+17:01:37|Chk-in|  Ray             G                    18  #7  - C/D
+17:02:30|Chk-in|  Eric            J                    24  #8  - C/D
